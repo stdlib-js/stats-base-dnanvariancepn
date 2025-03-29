@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-22)
+## Unreleased (2025-03-29)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`8477e77`](https://github.com/stdlib-js/stdlib/commit/8477e77f71a4560cdf0365c85eedef29b007cc5c) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`bf2f650`](https://github.com/stdlib-js/stdlib/commit/bf2f65007fb311b77e8a56d8d53b67b4e8b7b670) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dnanvariancepn` [(#4838)](https://github.com/stdlib-js/stdlib/pull/4838) _(by Prashant Kumar Yadav, Athan Reines)_
 -   [`9616777`](https://github.com/stdlib-js/stdlib/commit/9616777b99f1c7dc4ad7fbbed3980f1b9ff0edba) - **refactor:** update `stats/base/dnanvariancepn` native addon from C++ to C [(#4538)](https://github.com/stdlib-js/stdlib/pull/4538) _(by Dhruv Arvind Singh)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
@@ -39,8 +40,9 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Athan Reines
 -   Dhruv Arvind Singh
 -   Philipp Burckhardt
